@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+   
+    <title>Minha empresa</title>
+   
+  </head>
+  <body style="background-color: #002c2e; color:white">
+    <h1> {codeworker}</h1>
+    <hr>
+    <a href="quemsomos.html"> Quem somos </a>
+    
+    <h2 >Serviços </h2>
+
+      <ul>
+         <li>Desenvolvimento de sistemas</li>   
+         <li> Montagem de servidores Linux</li>   
+         <li> Cálculo de ponto de função</li>
+      </ul>
+
+    <ol>
+         <li>Desenvolvimento de sistemas</li>   
+         <li> Montagem de servidores Linux</li>   
+         <li> Cálculo de ponto de função</li>
+      </ol>
+
+    <h2> Cursos</h2>
+    <table border="1" >
+      <tr>
+          <th> Curso</th>  <th>Valor</th>
+      </tr>
+       <tr>
+          <td> Java</td>  <td>R$250,00</td>
+      </tr>
+       <tr>
+          <td> PHP</td>  <td>R$100,00</td>
+      </tr>
+      
+    </table>
+   
+  </body>
+</html>
